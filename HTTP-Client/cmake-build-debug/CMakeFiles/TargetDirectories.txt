@@ -1,0 +1,3 @@
+/home/ovic/CLionProjects/HTTP-Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ovic/CLionProjects/HTTP-Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ovic/CLionProjects/HTTP-Client/cmake-build-debug/CMakeFiles/HTTP_Client.dir
